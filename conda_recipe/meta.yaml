@@ -42,7 +42,7 @@ test:
     - python -m unittest
 
 about:
-  home: https://github.com/bmeyers/StatisticalClearSky
+  home: https://github.com/slacgismo/StatisticalClearSky
   license: BSD
   license_family: BSD
   license_file:
